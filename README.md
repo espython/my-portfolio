@@ -1,4 +1,4 @@
-# Gatsby + Netlify CMS 
+# Simple Gatsby website using  Netlify CMS 
 
 ## Features
 
